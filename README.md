@@ -1,14 +1,14 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://varun8k.io)
 
 <h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun8k&label=Profile%20views&color=0e75b6&style=flat"
         alt="varun8k" /> </p>
 
-- 🌱 I’m currently learning **php,javascript**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **Css**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **varungarry375@gamil.com**
 
