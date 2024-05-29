@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun8k&label=Profile%20views&color=0e75b6&style=flat"
         alt="varun8k" /> </p>
-
-- 🔭 I’m currently building Notes App
   
 - 🌱 I’m currently learning more about Android development.
   
